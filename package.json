@@ -1,0 +1,19 @@
+{
+  "name": "ull-shape-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100886764/triangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100886764/triangle/issues"
+  },
+  "homepage": "https://github.com/alu0100886764/triangle#readme"
+}
